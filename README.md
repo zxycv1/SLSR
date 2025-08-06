@@ -1,4 +1,4 @@
-# Adaptive Token Dictionary
+# SLSR
 
 This repository is an official implementation of the paper "Towards Efficient Image Super-Resolution via Structured Sparse and Local Representation Learning".
 
