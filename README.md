@@ -22,8 +22,6 @@ CUDA_VISIBLE_DEVICES=0 python basicsr/train.py -opt options/train/SRx4.yml --lau
 - Download the testing data (Set5 + Set14 + BSD100 + Urban100 + Manga109 [[download](https://drive.google.com/file/d/1_FvS_bnSZvJWx9q4fNZTR8aS15Rb0Kc6/view?usp=sharing)]) and put them in the folder `./datasets`.
 
 ```bash
-python basicsr/test.py -opt options/test/101_ATD_light_SRx2_scratch.yml
-python basicsr/test.py -opt options/test/102_ATD_light_SRx3_finetune.yml
 python basicsr/test.py -opt options/test/SRx4.yml
 ```
 
