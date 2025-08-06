@@ -29,5 +29,5 @@ python basicsr/test.py -opt options/test/SRx4.yml
 
 
 ## Acknowledgements
-This code is built on [BasicSR](https://github.com/XPixelGroup/BasicSR).
+This code is built on [BasicSR](https://github.com/XPixelGroup/BasicSR), [ATD](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary).
 
